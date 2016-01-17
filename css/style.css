@@ -1,0 +1,16 @@
+body {
+  background: #bdc3c7;
+  padding-top: 80px;
+}
+
+.padding {
+  padding: 80px;
+}
+
+.navbar {
+  padding: 20px;
+}
+
+.navbar .navbar-brand {
+  color: #3498db;
+}
